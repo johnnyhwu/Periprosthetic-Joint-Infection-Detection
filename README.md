@@ -21,7 +21,7 @@ We will learn how to preprocess dataset, and use different kinds of models (Auto
 - ./
   - ****main.ipynb**** : all the code is in this file
   - ****report.pdf**** : simple report for this project based on ****spec.pdf**** (report is written in Traditional Chinese)
-  - ****spec.pdf**** : specification from TA for this project
+  - ****spec.pdf**** : specification published by TA for this project
   - ****README.md****
 - ./dataset
   - ****train.xlsx**** : training dataset
